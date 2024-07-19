@@ -1,8 +1,8 @@
-# Responsive-LMS-Website-using-HTML-CSS-JavaScript-Bootstrap-5
+# Welcome to Gyaan Path, a Responsive-LMS-Website-using-HTML-CSS-JavaScript-Bootstrap-5
 
 -Website link here:  
 
-Welcome to the "Responsive LMS Website using HTML, CSS, JavaScript, and Bootstrap 5" repository! This project showcases a comprehensive Learning Management System (LMS) website developed using a combination of cutting-edge web technologies.
+This project showcases a comprehensive Learning Management System (LMS) website developed using a combination of cutting-edge web technologies.
 
 Our goal with this project is to provide a modern and user-friendly platform for online education, leveraging the power of HTML, CSS, JavaScript, and the Bootstrap 5 framework. The website is designed to be fully responsive, ensuring seamless usage across various devices and screen sizes.
 
